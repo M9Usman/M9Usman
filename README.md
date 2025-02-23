@@ -1,4 +1,4 @@
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
 # Full-Stack & Desktop Application Developer
 
