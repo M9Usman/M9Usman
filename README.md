@@ -1,7 +1,5 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
-# Full-Stack & Desktop Application Developer
-
 ## About Me
 Experienced Full-Stack Developer specializing in web and desktop applications, with expertise in modern JavaScript/TypeScript ecosystems. Focused on building scalable, enterprise-grade applications using cutting-edge technologies and best practices in software development.
 
