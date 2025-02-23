@@ -1,3 +1,6 @@
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+
 # 💫 About Me:
 Experienced Full-Stack Developer specializing in web and desktop applications, with expertise in modern JavaScript/TypeScript ecosystems. Focused on building scalable, enterprise-grade applications using cutting-edge technologies and best practices in software development.
 
@@ -24,8 +27,6 @@ Experienced Full-Stack Developer specializing in web and desktop applications, w
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=M9Usman&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=M9Usman&limit=5&theme=monokai&combine_all_yearly_contributions=true)
